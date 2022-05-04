@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		683AD6312820CEF7004E4EE8 /* GitHubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683AD6302820CEF7004E4EE8 /* GitHubApp.swift */; };
+		683AD6312820CEF7004E4EE8 /* MyGitHub.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683AD6302820CEF7004E4EE8 /* MyGitHub.swift */; };
 		683AD6332820CEF7004E4EE8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 683AD6322820CEF7004E4EE8 /* ContentView.swift */; };
 		683AD6352820CEF8004E4EE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 683AD6342820CEF8004E4EE8 /* Assets.xcassets */; };
 		683AD6382820CEF8004E4EE8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 683AD6372820CEF8004E4EE8 /* Preview Assets.xcassets */; };
@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		683AD62D2820CEF7004E4EE8 /* GitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		683AD6302820CEF7004E4EE8 /* GitHubApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubApp.swift; sourceTree = "<group>"; };
+		683AD6302820CEF7004E4EE8 /* MyGitHub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGitHub.swift; sourceTree = "<group>"; };
 		683AD6322820CEF7004E4EE8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		683AD6342820CEF8004E4EE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		683AD6372820CEF8004E4EE8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 		683AD62F2820CEF7004E4EE8 /* GitHub */ = {
 			isa = PBXGroup;
 			children = (
-				683AD6302820CEF7004E4EE8 /* GitHubApp.swift */,
+				683AD6302820CEF7004E4EE8 /* MyGitHub.swift */,
 				683AD63E2820CF88004E4EE8 /* WebView.swift */,
 				683AD6322820CEF7004E4EE8 /* ContentView.swift */,
 				683AD6342820CEF8004E4EE8 /* Assets.xcassets */,
@@ -158,7 +158,7 @@
 			files = (
 				683AD63F2820CF88004E4EE8 /* WebView.swift in Sources */,
 				683AD6332820CEF7004E4EE8 /* ContentView.swift in Sources */,
-				683AD6312820CEF7004E4EE8 /* GitHubApp.swift in Sources */,
+				683AD6312820CEF7004E4EE8 /* MyGitHub.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
